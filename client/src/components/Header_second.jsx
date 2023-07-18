@@ -113,7 +113,7 @@ border-style: solid;
 .c2{
   position: absolute;
   top: 65px;
-  font-size: 8px;
+  font-size: 7px;
   font-weight: 800;
   margin-left: 0px;
   background: -webkit-linear-gradient(left,white,grey);

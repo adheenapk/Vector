@@ -66,7 +66,7 @@ span{
 .we{
   position: absolute;
   top: 230px;
-  left: 65px;
+  left: 60px;
   color:white;
   font-size: 10px;
   font-weight: 200;

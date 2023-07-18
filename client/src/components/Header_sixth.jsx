@@ -22,13 +22,10 @@ span{
 }
 @media screen and (max-width:600px){
     height: 10vh;
-    position: relative;
     .last{
     color: white;
-    font-size: 20px;
-    text-align: center;
-    position: absolute;
-    left: 200px;
+    font-size: 15px;
+    align-items: end;
     }
 }
 `;

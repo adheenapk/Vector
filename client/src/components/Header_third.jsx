@@ -60,11 +60,11 @@ position: relative;
     margin-left: 100px;
 } 
 .lap img{
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     position: absolute;
-    top: -100px;
-    right: 5px;
+    top: -75px;
+    right: 3px;
 }
 }
 `;

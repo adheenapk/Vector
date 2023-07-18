@@ -108,7 +108,7 @@ padding-top: 100px;
     width: 70px;
     text-align: center;
     padding-top:20px;
-    font-size: 100px;
+    font-size: 90px;
 }
 .three{
     position: relative;
@@ -116,7 +116,7 @@ padding-top: 100px;
     width: 70px;
     text-align: center;
     padding-top:20px;
-    font-size: 100px;
+    font-size: 90px;
 }
 svg{
     position: absolute;
@@ -132,13 +132,13 @@ svg{
     background-clip: none;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-    padding-top: 45px;
+    padding-top: 35px;
     text-align: center;
 }
 .c2{
     font-size: 10px;
     color: grey;
-    padding-top: 20px;
+    padding-top: 10px;
     text-align: center;
 }
 }
