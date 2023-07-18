@@ -68,7 +68,7 @@ border-style: solid;
   top: 270px;
 }
 @media screen and (max-width:600px){
-  height: 45vh;
+  height: 23vh;
   .rectangle{
 display:flex;
 flex-direction:row;
@@ -76,45 +76,46 @@ justify-content:space-around;
 align-items: center;
 }
 .rect1 ,.rect2 ,.rect3 ,.rect4{
-width: 100px;
-height: 150px;
+width: 65px;
+height: 90px;
 background-color:#3C3C3C;
 border-style: solid;
  border-color:  #63E7DA;
- border-radius :0px 50px 0px 50px ;
+ border-radius :0px 20px 0px 20px ;
  font-size: 15px;
  color: grey;
- padding: 15px;
+ padding: 10px;
 }
 .i1 img{
   position: absolute;
-  top: 60px;
+  top: 40px;
   height: 20px;
   width: 20px;
 }
 .i2 img{
   position: absolute;
-  top: 60px;
+  top: 40px;
   height: 20px;
   width: 20px;
 }
 .i3 img{
   position: absolute;
-  top: 60px;
+  top: 40px;
   height: 20px;
   width: 20px;
 }
 .i4 img{
   position: absolute;
-  top: 60px;
+  top: 40px;
   height: 20px;
   width: 20px;
 }
 .c2{
   position: absolute;
-  top: 100px;
-  font-size: 12px;
+  top: 65px;
+  font-size: 8px;
   font-weight: 800;
+  margin-left: 0px;
   background: -webkit-linear-gradient(left,white,grey);
     background-clip: none;
   -webkit-background-clip: text;
@@ -122,8 +123,8 @@ border-style: solid;
 }
 .c3{
   position: absolute;
-  top: 120px;
-  font-size: 9px;
+  top: 80px;
+  font-size: 6px;
 }
 }
 

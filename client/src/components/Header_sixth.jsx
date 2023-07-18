@@ -11,7 +11,7 @@ position: relative;
 display: flex;
 flex-direction: column;
 justify-content: space-around;
-align-items: end;
+position: relative;
 .last{
     color: white;
     font-size: 40px;
@@ -21,10 +21,14 @@ span{
     color:  #63E7DA;;
 }
 @media screen and (max-width:600px){
+    height: 10vh;
+    position: relative;
     .last{
     color: white;
-    font-size: 30px;
+    font-size: 20px;
     text-align: center;
+    position: absolute;
+    left: 200px;
     }
 }
 `;

@@ -41,6 +41,7 @@ span{
   font-family: 'Merienda';
 }
 @media screen and (max-width:600px){
+  height:50vh ;
   .im img{
   background-image: url(${vux});
   background-repeat: no-repeat;
@@ -49,25 +50,25 @@ span{
   justify-content: center;
   align-items: center;
   background-size: 100% 100%;
-    height: 70vh;
+    height: 50vh;
     width: 100%;
   
 }
   .vect{
   position: absolute;
-  top: 250px;
-  left: 60px;
+  top: 200px;
+  left: 35px;
   color:white;
-  font-size: 50px;
+  font-size: 30px;
   font-weight: 900;
   word-spacing: 2px;
 }
 .we{
   position: absolute;
-  top: 300px;
-  left: 90px;
+  top: 230px;
+  left: 65px;
   color:white;
-  font-size: 20px;
+  font-size: 10px;
   font-weight: 200;
   font-family: 'Merienda';
 }

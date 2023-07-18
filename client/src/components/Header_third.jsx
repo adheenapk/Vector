@@ -37,6 +37,8 @@ position: relative;
     right: 100px;
 }
 @media screen and (max-width:600px){
+    height: 10vh;
+
     .line{  
     top: 200px;
     border-bottom: 1px solid #63E7DA;
@@ -58,11 +60,11 @@ position: relative;
     margin-left: 100px;
 } 
 .lap img{
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     position: absolute;
-    top: -150px;
-    right: 10px;
+    top: -100px;
+    right: 5px;
 }
 }
 `;

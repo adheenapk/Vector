@@ -67,7 +67,7 @@ span{
 
     .logo img{
     padding-top: 10px;
-    margin-left: 130px;
+    margin-left: 50px;
     height: 200px;
     width: 200px;
 }
@@ -79,14 +79,24 @@ align-items: center;
 }
 input{
     background-color:#191A1D;
-    width: 250px;
+    width: 150px;
     height: 30px;
     border-radius: 50px  50px 0px 50px;
     border-color: grey;
     border-style: solid;
-    padding-left:50px;
-    font-size: 25px;
-    margin-left: 80px;
+    padding-left:20px;
+    font-size: 15px;
+    margin-left: 50px;
+}
+.btn{
+    background-color: #63E7DA;
+    color: whitesmoke;
+    font-size: 15px;
+    font-weight: 800;
+    height: 30px;
+    width: 60px;
+    margin-left:10px;
+    border-radius: 50px  50px 50px 0px;
 }
 .heading{
     padding-top: 20px;

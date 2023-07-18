@@ -74,14 +74,14 @@ svg{
     text-align: center;
 }
 @media screen and (max-width:600px){
-    height: 60vh;
+    height: 43vh;
     .main{
     color: white;
-    font-size: 50px;
+    font-size: 35px;
     font-family:'Gill Sans';
     font-weight: 900;
     position: absolute;
-    margin-left: 50px;
+    margin-left: 30px;
    
 }
     .offer{
@@ -94,40 +94,39 @@ padding-top: 100px;
 }
 .one{
     position: relative;
-    left: 35px;
-    height: 130px;
-    width: 100px;
+    height: 110px;
+    width: 70px;
     border: #ffe100;
     border-style: solid;
     text-align: center;
-    font-size: 100px;
+    font-size: 90px;
+    padding-left: 20px;
 }
 .two{
     position: relative;
-    height: 130px;
-    width: 100px;
+    height: 110px;
+    width: 70px;
     text-align: center;
     padding-top:20px;
     font-size: 100px;
 }
 .three{
     position: relative;
-    height: 130px;
-    width: 100px;
+    height: 110px;
+    width: 70px;
     text-align: center;
     padding-top:20px;
-    padding-left:40px;
     font-size: 100px;
 }
 svg{
     position: absolute;
-    width:100px;
-    height: 100px;
-    padding-left: 50px;
+    width:90px;
+    height: 90px;
+    padding-left: 35px;
     padding-top: 30px;
 }
 .c1{
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 800;
     background: -webkit-linear-gradient(left,white, #333);
     background-clip: none;
@@ -137,7 +136,7 @@ svg{
     text-align: center;
 }
 .c2{
-    font-size: 13px;
+    font-size: 10px;
     color: grey;
     padding-top: 20px;
     text-align: center;

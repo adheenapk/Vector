@@ -1,17 +1,17 @@
 import React, { useEffect, useState } from 'react'
 import styled from 'styled-components'
 
-const Container = styled.div`position:absolute;
-right: 50px;
-
+const Container = styled.div`position:relative;
 .nav_main{
     display:flex;
+    position: absolute;
+    right: 30px;
     justify-content: space-between;
     align-items: center;
     padding: 15px;
     color: white;
-    position: relative;
     font-size: 20px;
+    margin-left: auto;
 }
 .link{
     display: flex;
@@ -42,7 +42,7 @@ right: 50px;
     height: 25vh;
     width: 100px;
     background-color:#191A1D;
-    transform: translateX(${props => props.value?"400px":"-475px"});
+    transform: translateX(${props => props.value?"0px":"-300px"});
     transition: all;
     color: white;
 }
