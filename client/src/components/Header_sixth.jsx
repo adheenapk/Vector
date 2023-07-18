@@ -15,17 +15,17 @@ position: relative;
 .last{
     color: white;
     font-size: 40px;
-    margin-right: 200px;
+    margin-left: 1400px;
 }
 span{
     color:  #63E7DA;;
 }
 @media screen and (max-width:600px){
-    height: 10vh;
+    height: 5vh;
     .last{
     color: white;
     font-size: 15px;
-    align-items: end;
+    margin-left:200px;
     }
 }
 `;
