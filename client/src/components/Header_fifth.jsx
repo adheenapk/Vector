@@ -108,7 +108,7 @@ input{
     color: white;
     padding-top: 25px;
     text-align: center;
-    font-size: 15px;
+    font-size: 10px;
 }
 .final{
     color: #63E7DA;
