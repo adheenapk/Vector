@@ -7,11 +7,10 @@ const Container = styled.div` margin: 0px;
 padding: 0px;
 background-color:#191A1D;
 height: 20vh;
-position: relative;
 display: flex;
 flex-direction: column;
 justify-content: space-around;
-height: 10vh;
+height: 20vh;
 .last{
     color: white;
     font-size: 40px;
