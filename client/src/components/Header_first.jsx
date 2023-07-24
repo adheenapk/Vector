@@ -41,34 +41,27 @@ span{
   font-family: 'Merienda';
 }
 @media screen and (max-width:600px){
-  height:50vh ;
+  height:35vh ;
+  background-color: #191A1D;
   .im img{
-  background-image: url(${vux});
-  background-repeat: no-repeat;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background-size: 100% 100%;
-    height: 50vh;
-    width: 100%;
+display: none;
   
 }
   .vect{
   position: absolute;
   top: 200px;
-  left: 35px;
+  left: 120px;
   color:white;
-  font-size: 30px;
+  font-size: 45px;
   font-weight: 900;
   word-spacing: 2px;
 }
 .we{
   position: absolute;
-  top: 230px;
-  left: 60px;
+  top: 250px;
+  left: 160px;
   color:white;
-  font-size: 10px;
+  font-size: 15px;
   font-weight: 200;
   font-family: 'Merienda';
 }

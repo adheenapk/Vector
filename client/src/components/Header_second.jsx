@@ -10,7 +10,6 @@ const Container = styled.div` margin: 0px;
 padding: 0px;
 background-color:#191A1D;
 height: 60vh;
-position: relative;
 
 .rectangle{
 display:flex;
@@ -30,101 +29,74 @@ border-style: solid;
  padding: 15px;
 }
 .i1 img{
-  position: absolute;
-  top: 160px;
+  padding-top:120px;
   height: 40px;
   width: 40px;
 }
 .i2 img{
-  position: absolute;
-  top: 160px;
+  padding-top:120px;
   height: 40px;
   width: 40px;
 }
 .i3 img{
-  position: absolute;
-  top: 160px;
+  padding-top:120px;
   height: 40px;
   width: 40px;
 }
 .i4 img{
-  position: absolute;
-  top: 160px;
+  padding-top:120px;
   height: 40px;
   width: 40px;
 }
 .c2{
-  position: absolute;
-  top: 220px;
-  font-size: 25px;
-  font-weight: 800;
+  font-size: 30px;
+  padding-top:20px;
   background: -webkit-linear-gradient(left,white,grey);
     background-clip: none;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 .c3{
-  position: absolute;
-  top: 270px;
+  padding-top: 20px;
 }
 @media screen and (max-width:600px){
-  height: 23vh;
+  height: 130vh;
   .rectangle{
 display:flex;
-flex-direction:row;
+flex-direction:column;
 justify-content:space-around;
 align-items: center;
 }
 .rect1 ,.rect2 ,.rect3 ,.rect4{
-width: 65px;
-height: 90px;
-background-color:#3C3C3C;
-border-style: solid;
- border-color:  #63E7DA;
- border-radius :0px 20px 0px 20px ;
- font-size: 15px;
- color: grey;
- padding: 10px;
+  height: 220px;
+  width: 150px;
+  margin-top: 10px;
 }
 .i1 img{
-  position: absolute;
-  top: 40px;
-  height: 20px;
-  width: 20px;
+  width: 35px;
+  height: 35px;
+  padding-top: 50px;
 }
 .i2 img{
-  position: absolute;
-  top: 40px;
-  height: 20px;
-  width: 20px;
+  width: 35px;
+  height: 35px;
+  padding-top: 35px;
 }
 .i3 img{
-  position: absolute;
-  top: 40px;
-  height: 20px;
-  width: 20px;
+  width: 35px;
+  height: 35px;
+  padding-top: 35px;
 }
 .i4 img{
-  position: absolute;
-  top: 40px;
-  height: 20px;
-  width: 20px;
+  width: 35px;
+  height: 35px;
+  padding-top: 50px;
 }
 .c2{
-  position: absolute;
-  top: 65px;
-  font-size: 7px;
-  font-weight: 800;
-  margin-left: 0px;
-  background: -webkit-linear-gradient(left,white,grey);
-    background-clip: none;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  font-size: 20px;
 }
 .c3{
-  position: absolute;
-  top: 80px;
-  font-size: 6px;
+  font-size: 15px;
 }
 }
 
