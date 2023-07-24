@@ -7,7 +7,7 @@ import vector from '../assets/vector.png'
 const Container = styled.div` margin: 0px;
 padding: 0px;
 background-color:#191A1D;
-height: 80vh;
+height: 60vh;
 position: relative;
 .all{
     display:flex;

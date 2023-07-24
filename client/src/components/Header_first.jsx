@@ -14,7 +14,7 @@ padding: 0px;
   justify-content: center;
   align-items: center;
   background-size: 100% 100%;
-    height: 100vh;
+    height: 60vh;
     width: 100%;
   
 }
@@ -49,8 +49,8 @@ display: none;
 }
   .vect{
   position: absolute;
-  top: 200px;
-  left: 120px;
+  top: 150px;
+  left: 100px;
   color:white;
   font-size: 45px;
   font-weight: 900;
@@ -58,8 +58,8 @@ display: none;
 }
 .we{
   position: absolute;
-  top: 250px;
-  left: 160px;
+  top: 200px;
+  left: 150px;
   color:white;
   font-size: 15px;
   font-weight: 200;

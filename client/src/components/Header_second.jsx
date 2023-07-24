@@ -9,7 +9,7 @@ import icon4 from '../assets/icon4.png'
 const Container = styled.div` margin: 0px;
 padding: 0px;
 background-color:#191A1D;
-height: 60vh;
+height: 55vh;
 
 .rectangle{
 display:flex;
@@ -96,7 +96,7 @@ align-items: center;
   font-size: 20px;
 }
 .c3{
-  font-size: 15px;
+  font-size: 10px;
 }
 }
 

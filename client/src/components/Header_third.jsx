@@ -5,7 +5,7 @@ import laptop from '../assets/laptop.png'
 const Container = styled.div` margin: 0px;
 padding: 0px;
 background-color:#191A1D;
-height: 20vh;
+height: 15vh;
 position: relative;
 
 .line{  

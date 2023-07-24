@@ -44,7 +44,7 @@ const Container = styled.div`position:relative;
     background-color:#191A1D;
     transform: translateX(${props => props.value?"0px":"-300px"});
     transition: all;
-    color: white;
+    color: #63E7DA;
 }
 .lk{
     display: flex;

@@ -11,7 +11,7 @@ position: relative;
 display: flex;
 flex-direction: column;
 justify-content: space-around;
-position: relative;
+height: 10vh;
 .last{
     color: white;
     font-size: 40px;
