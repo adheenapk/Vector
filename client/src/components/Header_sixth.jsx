@@ -6,15 +6,14 @@ import styled from 'styled-components'
 const Container = styled.div` margin: 0px;
 padding: 0px;
 background-color:#191A1D;
-height: 20vh;
+height: 30vh;
 display: flex;
 flex-direction: column;
 justify-content: space-around;
-height: 20vh;
+align-items: end;
 .last{
     color: white;
     font-size: 40px;
-    margin-left: 1400px;
 }
 span{
     color:  #63E7DA;;
