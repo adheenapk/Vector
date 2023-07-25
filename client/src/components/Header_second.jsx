@@ -60,10 +60,10 @@ border-style: solid;
   padding-top: 20px;
 }
 @media screen and (max-width:600px){
-  height: 130vh;
+  height: 70vh;
   .rectangle{
 display:flex;
-flex-direction:column;
+flex-wrap:wrap;
 justify-content:space-around;
 align-items: center;
 }

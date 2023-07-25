@@ -74,7 +74,7 @@ svg{
     text-align: center;
 }
 @media screen and (max-width:600px){
-    height: 43vh;
+    height: 90vh;
     .main{
     color: white;
     font-size: 35px;
@@ -86,7 +86,7 @@ svg{
 }
     .offer{
 display:flex;
-flex-direction:row;
+flex-direction:column;
 justify-content:space-around;
 align-items: center;
 color: white;
