@@ -50,7 +50,7 @@ display: none;
   .vect{
   position: absolute;
   top: 150px;
-  left: 100px;
+  left: 90px;
   color:white;
   font-size: 45px;
   font-weight: 900;
@@ -59,7 +59,7 @@ display: none;
 .we{
   position: absolute;
   top: 200px;
-  left: 150px;
+  left: 145px;
   color:white;
   font-size: 15px;
   font-weight: 200;

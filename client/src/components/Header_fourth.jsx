@@ -74,7 +74,7 @@ svg{
     text-align: center;
 }
 @media screen and (max-width:600px){
-    height: 90vh;
+    height: 95vh;
     .main{
     color: white;
     font-size: 35px;
