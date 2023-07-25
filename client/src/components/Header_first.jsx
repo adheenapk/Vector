@@ -61,7 +61,7 @@ display: none;
   top: 200px;
   left: 145px;
   color:white;
-  font-size: 16px;
+  font-size: 1px;
   font-weight: 200;
   font-family: 'Merienda';
 }
