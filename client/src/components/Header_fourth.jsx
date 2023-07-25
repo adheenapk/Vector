@@ -111,6 +111,9 @@ svg{
     height: 250px;
     width: 250px;
 }
+.c3{
+    font-size: 12px;
+}
 }
 `;
 
