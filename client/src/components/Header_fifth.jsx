@@ -125,7 +125,7 @@ const Header_fifth = () => {
     return (
         <>
             <Container>
-               <div className='all'>
+               <div className='all' id='contact'>
                 <div className='logo'>
                 <div className='vect'><img src={vector}></img></div>
                 <input type='textbox' placeholder='write a message'></input>        

@@ -149,7 +149,7 @@ const Header_fourth = () => {
     return (
         <>
             <Container>
-                <div className='main'>
+                <div className='main' id='about'>
                     What we offer?
                 </div>
                 <div className='offer'>

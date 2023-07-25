@@ -77,7 +77,7 @@ const Header_first = () => {
           
 <div className='im'>
 <img src={vux}></img>
-<div className='vect'>VECTOR<span>UX</span></div>
+<div className='vect' id='home'>VECTOR<span>UX</span></div>
 <div className='we'>we ideate,create <span>&</span> innovate</div>
 </div>
 

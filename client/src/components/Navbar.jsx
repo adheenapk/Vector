@@ -26,6 +26,10 @@ const Container = styled.div`position:relative;
 .nav_side{
     display: none;
 }
+a{
+    text-decoration:none;
+    color: white;
+}
 @media screen and (max-width:600px){
     .links{
         display: none;
@@ -54,7 +58,11 @@ const Container = styled.div`position:relative;
 .lks{
     margin-bottom: 30px;
     margin-left: 25px;
-    margin-top:20px;
+    margin-top:17px;
+}
+a{
+    text-decoration:none;
+    color: #63E7DA;
 }
 }
 `;
@@ -67,9 +75,9 @@ const Navbar = () => {
         <Container value={state}>
             <div className='nav_main'>
                 <div className="link">
-                    <div className="links">Home</div>
-                    <div className="links">About</div>
-                    <div className="links">Contact</div>
+                    <div className="links"><a href='#home'>Home</a></div>
+                    <div className="links"><a href='#about'>About</a></div>
+                    <div className="links"><a href='#contact'>ContactUs</a></div>
                    <div className='icon' onClick={() => setState(!state)} > <i class="fa-solid fa-bars"></i>
                    </div>
                 </div>
@@ -77,9 +85,9 @@ const Navbar = () => {
             <div className='nav_side'>
                
                 <div className="lk">
-                    <div className="lks">Home</div>
-                    <div className="lks">About</div>
-                    <div className="lks">Contact</div>
+                    <div className="lks"><a href='#home'>Home</a></div>
+                    <div className="lks"><a href='#about'>About</a></div>
+                    <div className="lks"><a href='#contact'>Contact Us</a></div>
                     </div>
             </div>
         </Container>
