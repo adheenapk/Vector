@@ -96,7 +96,7 @@ align-items: center;
   font-size: 20px;
 }
 .c3{
-  font-size: 10px;
+  font-size: 15px;
 }
 }
 

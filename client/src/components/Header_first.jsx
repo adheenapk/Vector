@@ -41,7 +41,7 @@ span{
   font-family: 'Merienda';
 }
 @media screen and (max-width:600px){
-  height:35vh ;
+  height:40vh ;
   background-color: #191A1D;
   .im img{
 display: none;
@@ -52,7 +52,7 @@ display: none;
   top: 150px;
   left: 90px;
   color:white;
-  font-size: 45px;
+  font-size: 50px;
   font-weight: 900;
   word-spacing: 2px;
 }
@@ -61,7 +61,7 @@ display: none;
   top: 200px;
   left: 145px;
   color:white;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 200;
   font-family: 'Merienda';
 }

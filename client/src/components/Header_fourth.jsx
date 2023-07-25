@@ -76,10 +76,10 @@ svg{
     text-align: center;
 }
 @media screen and (max-width:600px){
-    height: 155vh;
+    height: 160vh;
     .main{
     color: white;
-    font-size: 55px;
+    font-size: 45px;
     font-family:'Gill Sans';
     font-weight: 900;
     position: absolute;
@@ -95,7 +95,22 @@ align-items: center;
 color: white;
 padding-top: 90px;
 }
-   
+.one{
+    position: relative;
+    left: 35px;
+    height: 250px;
+    width: 180px;
+}
+.c2{
+    font-size: 18px;
+    color: grey;
+    padding-top: 20px;
+    text-align: center;
+}
+svg{
+    height: 250px;
+    width: 250px;
+}
 }
 `;
 

@@ -19,7 +19,7 @@ span{
     color:  #63E7DA;;
 }
 @media screen and (max-width:600px){
-    height: 5vh;
+    height: 10vh;
     .last{
     color: white;
     font-size: 15px;

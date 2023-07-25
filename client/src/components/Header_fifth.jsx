@@ -68,8 +68,8 @@ span{
     .logo img{
     padding-top: 10px;
     margin-left: 30px;
-    height: 300px;
-    width: 300px;
+    height: 200px;
+    width: 200px;
 }
 .all{
     display:flex;
