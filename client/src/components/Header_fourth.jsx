@@ -56,7 +56,9 @@ padding-top: 200px;
 }
 svg{
     position: absolute;
-}
+    width:300px;
+    height: 300px;
+ }
 .c1{
     font-size: 30px;
     font-weight: 800;
@@ -74,73 +76,26 @@ svg{
     text-align: center;
 }
 @media screen and (max-width:600px){
-    height: 95vh;
+    height: 155vh;
     .main{
     color: white;
-    font-size: 35px;
+    font-size: 55px;
     font-family:'Gill Sans';
     font-weight: 900;
     position: absolute;
     margin-left: 30px;
+    margin-top: 10px;
    
 }
-    .offer{
+.offer{
 display:flex;
 flex-direction:column;
 justify-content:space-around;
 align-items: center;
 color: white;
-padding-top: 100px;
+padding-top: 90px;
 }
-.one{
-    position: relative;
-    height: 110px;
-    width: 70px;
-    border: #ffe100;
-    border-style: solid;
-    text-align: center;
-    font-size: 90px;
-    padding-left: 20px;
-}
-.two{
-    position: relative;
-    height: 110px;
-    width: 70px;
-    text-align: center;
-    padding-top:20px;
-    font-size: 90px;
-}
-.three{
-    position: relative;
-    height: 110px;
-    width: 70px;
-    text-align: center;
-    padding-top:20px;
-    font-size: 90px;
-}
-svg{
-    position: absolute;
-    width:90px;
-    height: 90px;
-    padding-left: 35px;
-    padding-top: 30px;
-}
-.c1{
-    font-size: 15px;
-    font-weight: 800;
-    background: -webkit-linear-gradient(left,white, #333);
-    background-clip: none;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-    padding-top: 35px;
-    text-align: center;
-}
-.c2{
-    font-size: 10px;
-    color: grey;
-    padding-top: 10px;
-    text-align: center;
-}
+   
 }
 `;
 

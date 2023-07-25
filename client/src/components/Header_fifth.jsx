@@ -67,9 +67,9 @@ span{
 
     .logo img{
     padding-top: 10px;
-    margin-left: 50px;
-    height: 200px;
-    width: 200px;
+    margin-left: 30px;
+    height: 300px;
+    width: 300px;
 }
 .all{
     display:flex;
@@ -108,7 +108,7 @@ input{
     color: white;
     padding-top: 25px;
     text-align: center;
-    font-size: 10px;
+    font-size: 15px;
 }
 .final{
     color: #63E7DA;
