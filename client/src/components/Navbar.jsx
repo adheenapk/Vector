@@ -54,6 +54,7 @@ a{
     display: flex;
     flex-direction:column;
     align-items: center;
+    font-size: 10px;
 }
 .lks{
     margin-bottom: 30px;
