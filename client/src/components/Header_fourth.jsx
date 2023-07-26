@@ -29,7 +29,6 @@ padding-top: 200px;
     left: 35px;
     height: 250px;
     width: 200px;
-    border: #ffe100;
     border-style: solid;
     text-align: center;
     padding-top:20px;
